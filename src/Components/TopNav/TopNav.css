@@ -1,0 +1,17 @@
+.topNav{
+    display: flex;
+    justify-content: space-between;
+    height: 8vh;
+    align-items: center;
+    background-color:chocolate;
+    padding: 0 15px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.topNav__navigation ul {
+    display: flex;
+    list-style-type: none;
+    width: 30vw;
+    justify-content: space-around;
+}
